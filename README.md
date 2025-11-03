@@ -1,2 +1,2 @@
 # DMART-Store-Sales-Dashboard
-Developed an interactive Power BI dashboard to analyze and visualize DMart’s sales performance across products, regions, and time periods. 
+Developed an interactive Power BI dashboard to analyze and visualize DMart’s sales performance across products, regions, and time periods. The dashboard provides key insights into total sales, profit margins, top-performing categories, and customer trends. It includes dynamic filters and visuals for easy comparison and data-driven decision-making. The project demonstrates strong data modeling, DAX measures, and visual design skills for retail business analytics.
